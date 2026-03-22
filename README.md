@@ -49,6 +49,7 @@ I'm a full-stack software engineer with an insatiable curiosity — always learn
 
 ## 📊 Stats
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=cschild&show_icons=true&theme=default&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />\
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschild&layout=compact&theme=default&langs_count=10" alt="Top languages" />\
-<img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=cschild" alt="GitHub Streak" />
+<div>
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschild&layout=compact&theme=default&langs_count=10" alt="Top languages" />
+    <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=cschild" alt="GitHub Streak" />
+</div>
