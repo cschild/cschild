@@ -53,8 +53,8 @@ I'm a full-stack software engineer with an insatiable curiosity — always learn
 
 ## 📊 Stats
 
-<img width="410" height="160" src="https://github-readme-stats.vercel.app/api?username=cschild&show_icons=true&theme=default&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" style="padding-bottom: 10px;" />
+<img width="410" height="160" src="https://github-readme-stats.vercel.app/api?username=cschild&show_icons=true&theme=default&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <br>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschild&layout=compact&theme=default&langs_count=10" alt="Top languages" style="padding-bottom: 20px;" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cschild&layout=compact&theme=default&langs_count=10" alt="Top languages" style="padding-bottom: 8px;" />
 <br>
 <img width="410" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cschild" alt="GitHub Streak" />
